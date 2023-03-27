@@ -1,2 +1,3 @@
-# QUERYSUTEIS
-Repositório onde aloco querys do dia a dia que pode me ser uteis futuramente
+# QUERYS-SQL-UTEIS
+
+Repositório com querys uteis do dia a dia 
